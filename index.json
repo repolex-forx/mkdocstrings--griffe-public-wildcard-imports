@@ -1,0 +1,11 @@
+{
+  "org": "mkdocstrings",
+  "repo": "griffe-public-wildcard-imports",
+  "versions": [
+    {
+      "commit": "aa18392dd232a6167ae1443040bfe03743d05e3d",
+      "tag": "0.3.2",
+      "parsed_at": "2026-10-10T22:43:07.783955+00:00"
+    }
+  ]
+}
