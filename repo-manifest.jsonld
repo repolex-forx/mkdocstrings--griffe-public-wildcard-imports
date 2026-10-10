@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-public-wildcard-imports/commit/aa18392dd232a6167ae1443040bfe03743d05e3d",
       "git:hexsha": "aa18392dd232a6167ae1443040bfe03743d05e3d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.3.2"
     },
     {
